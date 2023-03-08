@@ -17,12 +17,15 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
-THEN I find a concise, descriptive title and  ⭐⭐Favicon
-```
-
-
 H icon source
 https://www.favicon.cc/?action=icon&file_id=124822
+THEN I find a concise, descriptive title and  ⭐⭐Favicon
+
+
+
+
+![screenshot](https://user-images.githubusercontent.com/125145657/223685012-d64fa6c0-a898-41fe-8018-ff91744348f6.png)
+
 
 
 
