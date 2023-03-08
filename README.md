@@ -20,6 +20,7 @@ WHEN I view the title element
 H icon source
 https://www.favicon.cc/?action=icon&file_id=124822
 THEN I find a concise, descriptive title and  ⭐⭐Favicon
+The URL of the deployed application:-https://amrit1-kaur.github.io/Horiseon/
 
 
 
