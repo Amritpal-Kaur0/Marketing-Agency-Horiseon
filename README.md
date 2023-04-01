@@ -17,14 +17,17 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
+## Resources
 H icon source
 https://www.favicon.cc/?action=icon&file_id=124822
 THEN I find a concise, descriptive title and  ⭐⭐Favicon
-The URL of the deployed application:-https://amrit1-kaur.github.io/Horiseon/
+## The URL of the deployed application:-
+https://amrit1-kaur.github.io/Horiseon/
 
+## Support
+If you encounter any issues or have questions, please open an issue in the GitHub repository or contact me at amrit.gill3005@gmail.com
 
-
-
+## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/125145657/223685012-d64fa6c0-a898-41fe-8018-ff91744348f6.png)
 
 
